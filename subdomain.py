@@ -1,6 +1,6 @@
 import requests
 
-target_url = "google.com"
+target_url = "usaa.com"
 
 
 def request(url):

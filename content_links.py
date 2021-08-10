@@ -1,7 +1,7 @@
 import requests
 import re
 
-target_url = "google.com"
+target_url = "communities.usaa.com/"
 
 
 def request(url):
